@@ -6,3 +6,5 @@ my food:
 - takoyaki
 - ramyeon
 - kwetiau
+- spaghetti
+- chicker cordon bleu
